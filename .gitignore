@@ -1,0 +1,25 @@
+# dotnet
+**/bin/
+**/obj/
+*.user
+*.suo
+
+# sqlite db files
+**/*.db
+**/*.db-shm
+**/*.db-wal
+
+# node
+**/node_modules/
+**/dist/
+**/.vite/
+
+# env
+**/.env
+**/.env.local
+
+# macOS
+.DS_Store
+
+# Office temp files
+~$*
