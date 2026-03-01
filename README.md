@@ -1,4 +1,4 @@
-### Library Management System
+# Library Management System
 
 ## Project Structure
 
@@ -14,7 +14,8 @@ dotnet restore
 dotnet run
 ```
 
-Backend runs on: `http://localhost:5236`
+Backend runs on: `http://localhost:5236`  
+Swagger (if enabled): `http://localhost:5236/swagger`
 
 ## Run Frontend
 
